@@ -20,12 +20,6 @@ An interactive, cyberpunk-styled desktop monitor emulator inspired by the **Watc
 
 ---
 
-## 📸 Preview
-
-*Insert your TikTok video link, a high-quality screenshot, or a demonstration GIF here to grab attention!*
-
----
-
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
